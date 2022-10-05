@@ -49,3 +49,17 @@ Number_Weeks_Used refers Number of weeks used
 Number_Weeks_Quit	refers Number of weeks quit
 Season refers	Season Category (1, 2, 3)
 Crop_Damage	refers Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Damage due to Pesticides)
+
+Data Set-04
+This dataset contains most 43 most common foods grown across the globe and 23 columns as their respective land, water usage and carbon footprints.
+Columns
+Land use change - Kg CO2 - equivalents per kg product
+Animal Feed - Kg CO2 - equivalents per kg product
+Farm - Kg CO2 - equivalents per kg product
+Processing - Kg CO2 - equivalents per kg product
+Transport - Kg CO2 - equivalents per kg product
+Packaging - Kg CO2 - equivalents per kg product
+Retail - Kg CO2 - equivalents per kg product
+These represent greenhouse gas emissions per kg of food product(Kg CO2 - equivalents per kg product) across different stages in the lifecycle of food production.
+
+Eutrophication – the pollution of water bodies and ecosystems with excess nutrients – is a major environmental problem. The runoff of nitrogen and other nutrients from agricultural production systems is a leading contributor.
